@@ -106,4 +106,3 @@ if __name__ == '__main__':
 
 	BFS(Jug1, Jug2, target)
 
-# This code is contributed by mohit kumar 29
